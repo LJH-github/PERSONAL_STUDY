@@ -3,6 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-springsecurity-quickstart/01-springsecurity-quickstart.iml" filepath="$PROJECT_DIR$/01-springsecurity-quickstart/01-springsecurity-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/02-ahau-parent.iml" filepath="$PROJECT_DIR$/02-ahau-parent/02-ahau-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/infrastructure/api_gateway/api_gateway.iml" filepath="$PROJECT_DIR$/02-ahau-parent/infrastructure/api_gateway/api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/common/common.iml" filepath="$PROJECT_DIR$/02-ahau-parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/02-ahau-parent/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/service/service.iml" filepath="$PROJECT_DIR$/02-ahau-parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/service/service_acl/service_acl.iml" filepath="$PROJECT_DIR$/02-ahau-parent/service/service_acl/service_acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/02-ahau-parent/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ahau-parent/common/spring_security/spring_security.iml" filepath="$PROJECT_DIR$/02-ahau-parent/common/spring_security/spring_security.iml" />
     </modules>
   </component>
 </project>

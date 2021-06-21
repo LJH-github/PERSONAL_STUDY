@@ -4,7 +4,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-springsecurity-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/02-ahau-parent/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/02-ahau-parent/common/pom.xml" />
+        <option value="$PROJECT_DIR$/02-ahau-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/02-ahau-parent/service_base/pom.xml" />
+        <option value="$PROJECT_DIR$/02-ahau-parent/spring_security/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
