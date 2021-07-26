@@ -21,7 +21,7 @@ public class CountDownLatchDemo {
 //        }
 //        System.out.println(Thread.currentThread().getName() + "班长锁门了");
 
-
+// ===================================================================================================================
 
         //使用CountDownLatch
         CountDownLatch countDownLatch = new CountDownLatch(6);   //设置初始值6
